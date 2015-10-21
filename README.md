@@ -1,2 +1,3 @@
 # interview
-Pre-interview tasks
+Pre-interview tasks:
+Follow the instructions in "PreInterviewQuestions.rtf"
