@@ -1,0 +1,143 @@
+[
+    {
+      "languages": "Css",
+      "description" : "Is a Web page derived from multiple sources with a defined order of precedence where the definitions of any style element conflict.",
+      "skills": 5,
+      "image" : "css"
+    },
+       
+    {
+      "languages" : "Html/Html5",
+      "description" : "Hypertext Markup Language, a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.",
+      "skills": 5,
+      "image" : "html"
+    },
+
+    {
+      "languages" : "Javascript",
+      "description" : "An object-oriented computer programming language commonly used to create interactive effects within web browsers.",
+      "skills": 3,
+      "image" : "javascript"
+    },
+
+    {
+      "languages" : "Bootstrap",
+      "description" : "Is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.",
+      "skills": 5,
+      "image" : "bootstrap"
+    },
+
+    {      
+      "languages" : "Jquery",
+      "description" : "Is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML. jQuery is the most popular JavaScript library in use today, with installation on 65% of the top 10 million highest-trafficked sites on the Web. jQuery is free, open-source software licensed under the MIT License.",
+      "skills": 4,
+      "image" : "jquery"
+    },
+    
+     {      
+      "languages" : "Angularjs",
+      "description" : " (commonly referred to as Angular or Angular.js) is an open-source web application framework mainly maintained by Google and by a community of individual developers and corporations to address many of the challenges encountered in developing single-page applications.",
+      "skills": 4,
+      "image" : "angular"
+    },
+
+     {      
+      "languages" : "Unify",
+      "description" : "Unify was built to improve the development efficiency of apps for smartphones. Currently it supports smartphones based on the platforms iOS, Android and WebOS. There is support for desktop operating systems like Windows or Mac OS as well.",
+      "skills": 2,
+      "image" : "unify"
+    },
+
+     {      
+      "languages" : "Command Line",
+      "description" : "Is the space to the right of the command prompt on an all-text display mode on a computer monitor (usually a CRT or LCD panel) in which a user enters commands and data. It provides a means of communication between a user and a computer that is based solely on textual input and output.",
+      "skills": 3,
+      "image" : "cmd"
+    },
+
+    {      
+      "languages" : "Shell Scripting",
+      "description" : "Is a computer program designed to be run by the Unix shell, a command line interpreter. The various dialects of shell scripts are considered to be scripting languages.",
+      "skills": 3,
+      "image" : "shell"
+    },
+
+  
+    {      
+      "languages" : "CSharp",
+      "description" : "Is an object-oriented programming language from Microsoft that aims to combine the computing power of C++ with the programming ease of Visual Basic. C# is based on C++ and contains features similar to those of Java.",
+      "skills": 2,
+      "image" : "csharp"
+    },
+
+    {      
+      "languages" : "Visual Basic",
+      "description" : "Is a programming environment from Microsoft in which a programmer uses a graphical user interface (GUI) to choose and modify preselected sections of code written in the BASIC programming language.",
+      "skills": 2,
+      "image" : "vb"
+    },
+
+    {      
+      "languages" : "Php",
+      "description" : "hypertext preprocessor is defined as an HTML-embedded scripting language that is used to write web pages. An example of PHP is a script that displays the date in a website.",
+      "skills": 2,
+      "image" : "php"
+    },
+
+    {      
+      "languages" : "Framework",
+      "description" : "Is a software framework that is designed to support the development of dynamic websites, web applications, web services and web resources. The framework aims to alleviate the overhead associated with common activities performed in web development.",
+      "skills": 3,
+      "image" : "framework"
+    },
+
+    {      
+      "languages" : "Codeigniter",
+      "description" : "Is an open source rapid development web application framework, for use in building dynamic web sites with PHP",
+      "skills": 1,
+      "image" : "codeigniter"
+    },
+    
+    {      
+      "languages" : "Drupal",
+      "description" : "Is free, open source software that can be used by individuals or groups of users -- even those lacking technical skills -- to easily create and manage many types of Web sites. The application includes a content management platform and a development framework.",
+      "skills": 1,
+      "image" : "drupal"
+    },
+     
+    {      
+      "languages" : "Python",
+      "description" : "Is an interpreted, object-oriented programming language similar to PERL, that has gained popularity because of its clear syntax and readability. Python is said to be relatively easy to learn and portable, meaning its statements can be interpreted in a number of operating systems, including UNIX-based systems, Mac OS, MS-DOS, OS/2, and various versions of Microsoft Windows 98",
+      "skills": 3,
+      "image" : "python"
+    },
+
+    {      
+      "languages" : "Ruby on Rails",
+      "description" : "Is a web application framework written in Ruby under MIT License. Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages.",
+      "skills": 1,
+      "image" : "ruby"
+    },
+
+    {      
+      "languages" : "Sql",
+      "description" : "Structured Query Language) is a special-purpose programming language designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS).",
+      "skills": 2,
+      "image" : "sql"
+    },
+
+    {      
+      "languages" : "ST/Procedures",
+      "description" : "Have been viewed as the de facto standard for applications to access and manipulate database information through the use of codified methods, or procedures. This is largely due to what they offer developers: the opportunity to couple the set-based power of SQL with the iterative and conditional processing control of code ",
+      "skills": 2,
+      "image" : "stored"
+    },
+
+    {      
+      "languages" : "views",
+      "description" : "Is, in essence, a virtual table that does not physically exist. Rather, it is created by a SQL statement that joins one or more tables.",
+      "skills": 2,
+      "image" : "views"
+    }
+
+]
